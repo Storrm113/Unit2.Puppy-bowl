@@ -1,13 +1,17 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f9f9f9;
+    background-color: #dbd6d1;
     text-align: center;
 }
 
 header {
-    background-color: #ff5733;
-    color: white;
+    background-color: #28ac6a;
+    color: black;
     padding: 20px;
+    border-radius: 10px;
+    width: 90%;
+    max-width: 600px;
+    margin: auto;
 }
 
 #puppy-list, #puppy-form {
